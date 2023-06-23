@@ -13,5 +13,5 @@
 })();
 
 function goHome() {
-  window.location.replace = "https://ikemefunaekeportfolio.netlify.app/";
+  window.location.replace = ("https://ikemefunaekeportfolio.netlify.app/");
 }
