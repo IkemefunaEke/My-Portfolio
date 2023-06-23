@@ -12,3 +12,6 @@
   });
 })();
 
+function goHome() {
+  window.location.href = "https://ikemefunaekeportfolio.netlify.app/";
+}
